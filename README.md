@@ -1,2 +1,2 @@
-# Project-Algorithm-is-Touching
-This is the Algorithm for the is Touching function. 
+# p5.play-boilerplate
+Boiler plate for p5.play
